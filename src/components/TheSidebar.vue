@@ -18,6 +18,11 @@
         <span class="text">Home</span>
       </router-link>
 
+      <router-link class="button" to="/shopping">
+        <span class="material-icons">storefront</span>
+        <span class="text">Shopping</span>
+      </router-link>
+
       
 
       <router-link class="button" to="/stock">

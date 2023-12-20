@@ -23,7 +23,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 7rem;
+    margin-left: 6rem;
     margin-top: 4rem;
     
     .text{
