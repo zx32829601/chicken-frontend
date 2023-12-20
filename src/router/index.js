@@ -18,16 +18,21 @@ const router = createRouter({
       component: () => import('../views/AboutView.vue')
     },
     {
-      path: '/team',
-      name:'team',
+      path: '/stock',
+      name:'stock',
 
-      component: () => import('../views/TeamView.vue')
+      component: () => import('../views/StockView.vue')
     },
     {
       path: '/contact',
       name:'contact',
 
       component: () => import('../views/ContactView.vue')
+    },
+    {
+      path: '/restock',
+      name:'restock',
+      component: () => import('../views/RestockView.vue')
     }
   ]
 })

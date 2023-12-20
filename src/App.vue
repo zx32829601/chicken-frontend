@@ -14,10 +14,10 @@ import TheSiderbar from './components/TheSidebar.vue'
 
 <style lang="scss">
 :root{
-	--primary: #4ade80;
+	--primary: #ffd901;
 	--grey: #64748b;
-	--dark: #1e293b;
-	--dark-alt: #334155;
+	--secondbackground: #4e2a15;
+	--dark-alt: #38170d;
 	--light: #f1f5f9;
 	--sidebar-width: 300px;
 }
