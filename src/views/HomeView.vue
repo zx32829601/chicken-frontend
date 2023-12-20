@@ -6,8 +6,8 @@
   <main class="home-page">
     <div class="topic">
       <img src="../assets/logo.png" alt="friedchicken">
-      <span class="main"><h1>Home</h1></span>
-      <span class="text">卡滋!卡滋!炸機店進銷存管理系統</span>
+      <span class="main"><h1>卡滋!卡滋!炸雞店</h1></span>
+      
     
     </div>
     
